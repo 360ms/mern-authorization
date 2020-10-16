@@ -1,0 +1,4 @@
+{
+    "mongoURI": "YOUR MONGO URI",
+    "secret": "supersecretkey 😂"
+}
