@@ -3,7 +3,7 @@ Junior MERN Auth
 
 ### Database - MongoDB
 
-### Demo [on Heroku](https://mern-auth2020.herokuapp.com)
+### Demo [on Heroku](https://mernauth2020.herokuapp.com)
 
 ### Backend:
 - Node.js
